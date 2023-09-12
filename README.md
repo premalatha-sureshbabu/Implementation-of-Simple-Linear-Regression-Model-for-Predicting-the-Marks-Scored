@@ -69,24 +69,40 @@ print("RMSE= ",rmse)
 
 ## Output:
 #Head
-![Screenshot 2023-08-24 083338](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/26a2dfa1-33a1-4b1e-ba7f-90223b14a44c)
-#Tail
-![Screenshot 2023-08-24 083348](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/00eb96c6-acf9-49c7-a519-4b4a7dd12e4f)
-#Array value of x
-![Screenshot 2023-08-24 083355](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/8a2078d7-1e05-41e2-9c50-ec0503fdc78f)
-#Array value of y
-![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/e1efb2ea-4974-4f1d-9d7c-6cb3d08a85b7)
-#Values of Y prediction
-![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/2aff540e-f07f-4d4e-8572-76d84ff5ffdf)
-#Array values of Y test
-![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/7c54a44d-9412-4bb2-96e8-50a5defdbbc9)
-#Training set graph
-![Screenshot 2023-08-24 083414](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/df032f68-aa8f-48b6-81a3-7b12f50cbbcc)
-#Test set graph
-![Screenshot 2023-08-24 083422](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/63d73c8c-d663-4cc1-b8b4-55a8a159f75d)
-#Values of MSE,MAE,RMSE
-![Screenshot 2023-08-24 083429](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/a6f6fd10-b0a7-443f-ac43-cd1a3ca947a5)
 
+![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/e1f04b6f-732c-4f43-9f87-f842802d2b49)
+
+#Tail
+
+![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/e55cecf2-5242-47c9-b2bc-b8f35becc8da)
+
+#Array value of x
+
+![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/3651fe4e-399c-4556-acbd-fa50ec653b12)
+
+#Array value of y
+
+![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/6d05cd2d-7b96-4b59-a638-d729bbe9d503)
+
+#Values of Y prediction
+
+![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/88297343-72ea-4073-ab9e-8890fc26e3b4)
+
+#Array values of Y test
+
+![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/5481cc59-898c-430d-8c89-e399ef66faa0)
+
+#Training set graph
+
+![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/9bbd2eea-ac72-462f-92e1-530c29425d26)
+
+#Test set graph
+
+![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/8e417bdd-2f52-48e6-95dc-f249c5e7c826)
+
+#Values of MSE,MAE,RMSE
+
+![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/5811a394-1b50-4a7b-bb87-aed705c9a95d)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.

@@ -68,39 +68,39 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-Head
+# Head
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/e1f04b6f-732c-4f43-9f87-f842802d2b49)
 
-Tail
+# Tail
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/e55cecf2-5242-47c9-b2bc-b8f35becc8da)
 
-Array value of x
+# Array value of x
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/3651fe4e-399c-4556-acbd-fa50ec653b12)
 
-Array value of y
+# Array value of y
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/6d05cd2d-7b96-4b59-a638-d729bbe9d503)
 
-Values of Y prediction
+# Values of Y prediction
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/88297343-72ea-4073-ab9e-8890fc26e3b4)
 
-Array values of Y test
+# Array values of Y test
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/5481cc59-898c-430d-8c89-e399ef66faa0)
 
-Training set graph
+# Training set graph
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/9bbd2eea-ac72-462f-92e1-530c29425d26)
 
-Test set graph
+# Test set graph
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/8e417bdd-2f52-48e6-95dc-f249c5e7c826)
 
-Values of MSE,MAE,RMSE
+# Values of MSE,MAE,RMSE
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120620842/5811a394-1b50-4a7b-bb87-aed705c9a95d)
 
